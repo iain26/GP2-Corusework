@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TheGame.cpp
+c:\users\icotte200\desktop\birdsandengines\lab1\thegame.h(75): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\icotte200\desktop\birdsandengines\lab1\thegame.cpp(14): warning C4930: 'Sound audio(void)': prototyped function not called (was a variable definition intended?)
+c:\users\icotte200\desktop\birdsandengines\lab1\thegame.cpp(83): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\icotte200\desktop\birdsandengines\lab1\thegame.cpp(152): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\icotte200\desktop\birdsandengines\lab1\thegame.cpp(184): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\icotte200\desktop\birdsandengines\lab1\thegame.cpp(216): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lab1.vcxproj -> C:\Users\icotte200\Desktop\BirdsAndEngines\Debug\BirdsAndEngines.exe
+  Lab1.vcxproj -> C:\Users\icotte200\Desktop\BirdsAndEngines\Debug\BirdsAndEngines.pdb (Partial PDB)

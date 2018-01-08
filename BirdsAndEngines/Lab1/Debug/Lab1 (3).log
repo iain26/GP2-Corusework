@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Tex.cpp
+  Shader.cpp
+  obj_loader.cpp
+c:\users\iainco\desktop\birdsandengines\lab1\obj_loader.cpp(378): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  TheGame.cpp
+c:\users\iainco\desktop\birdsandengines\lab1\thegame.h(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\iainco\desktop\birdsandengines\lab1\thegame.cpp(13): warning C4930: 'Sound audio(void)': prototyped function not called (was a variable definition intended?)
+c:\users\iainco\desktop\birdsandengines\lab1\thegame.cpp(78): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\iainco\desktop\birdsandengines\lab1\thegame.cpp(84): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\iainco\desktop\birdsandengines\lab1\thegame.cpp(113): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\iainco\desktop\birdsandengines\lab1\thegame.cpp(141): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+c:\users\iainco\desktop\birdsandengines\lab1\thegame.h(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+  DisplayWindow.cpp
+  Sound.cpp
+  Generating Code...
+  stb_image.c
+  Lab1.vcxproj -> C:\Users\IainCo\Desktop\BirdsAndEngines\Debug\BirdsAndEngines.exe
